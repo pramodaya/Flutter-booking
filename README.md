@@ -16,9 +16,6 @@ Extensively Used Supabase For Authentication , Storage , Database , Functions.
 
 **Database:** PostgreSQL
 
-## Demo
-
-Youtube Video : https://youtu.be/Z9XNxNOD6qU
 
 ## Features
 
@@ -111,8 +108,4 @@ Screen 7              |  Screen 8 | Screen 9            |               Screen 1
 
 
 </details>
-
-## Feedback
-
-If you have any feedback, please reach out to us at dev.adnani26@gmail.com
 
